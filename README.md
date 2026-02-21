@@ -94,13 +94,6 @@ This project demonstrates:
 
 ---
 
-## 👨‍💻 Author
-
-Sukman Islam Chowdhury & Radif Abdullah, 
-Leading University
-
----
-
 ## 📌 Project Purpose
 
 This project was created for academic purposes as a DBMS project and to gain practical experience with PHP and MySQL database integration.
@@ -116,4 +109,12 @@ This project was created for academic purposes as a DBMS project and to gain pra
 - Add multiplayer functionality
 
 ---
+
+## 👨‍💻 Author
+
+Sukman Islam Chowdhury & Radif Abdullah, 
+Leading University
+
+---
+
 
